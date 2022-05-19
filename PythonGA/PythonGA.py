@@ -1,3 +1,4 @@
+#Not My Code, Found on youtube.
 from fuzzywuzzy import fuzz #fuzzywuzzy is for string comparison, used pip to install fuzzywuzzy, fuzz is a specific function in fuzzywuzzy library
 import random #for random numbers
 import string #string library
